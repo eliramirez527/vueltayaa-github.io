@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+
+}
+body{
+    font-family: 'open sans';
+    font-size: 90%;
+    text-align: center;
+}
+body img{
+    width: 15%;
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+ label {
+    font-weight: bold;
+    display: block;
+ }
+ input{
+    width: 135px;
+    border: 2px solid rgb(7, 7, 7);
+    padding: 5px;
+    width: 350px;
+        
+ }
+ fieldset{
+    margin: 5em auto;
+    width: 70%;
+    
+ }
+ .contenedor{
+    padding: 10px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+} 
+footer{
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+}
+.contenedor-footer{
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #ccc;
+    }
+    div H2{
+    font-size: 30px;
+    padding-bottom: 1px;
+    font-family: cursive;
+    }
+    .content-foo h4{
+        color:#04521e;
+        border-bottom: 3px solid #04521e;
+        padding-bottom: 2px;
+        margin-bottom: 2px;
+    }
+    .home-link {
+        display: inline-block;
+        color: #000;
+        text-decoration: none;
+        font-size: 20px;
+      }
+      
+      .home-link i {
+        margin-right: 5px;
+      }
+    
